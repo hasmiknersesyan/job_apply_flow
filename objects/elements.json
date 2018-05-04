@@ -1,0 +1,29 @@
+{
+  "url": "https://www.epam.com/careers",
+  "txtTitle": "//*[@id='main']/div[1]/div[1]/section/div/div[1]/h1",
+  "txtHeader": "//*[@id='main']/div[1]/div[1]/section/div/div[3]/h2",
+  "inputJob": "//*[@id='main']/div[1]/div[1]/section/div/div[4]/form/div/label/input",
+  "listIndex": "[data-index='0']",
+  "inputLoc": "//div[contains(text(), 'All Locations')]",
+  "ulLocation": "//*[@id='main']/div[1]/div[1]/section/div/div[1]/div/form/div[1]/div[1]/span[2]/div[2]/div/div[2]/ul",
+  "inputSkills": "//div[contains(text(), 'All Skills')]",
+  "lstSkill1": "//*[@id='main']/div[1]/div[1]/section/div/div[1]/div/form/div[1]/div[2]/div/div[2]/div/ul[1]",
+  "lstSkill2": "//*[@id='main']/div[1]/div[1]/section/div/div[1]/div/form/div[1]/div[2]/div/div[2]/div/ul[2]",
+  "btnApply1": "//*[@id='main']/div[1]/div[1]/section/div/div[1]/div/section/div[1]/article/footer/div/a",
+  "btnFind": "//*[@id='main']/div[1]/div[1]/section/div/div[1]/div/form/div[1]/div[3]/button",
+  "addedSkill": "//*[@id='main']/div[1]/div[1]/section/div/div[1]/div/div/span[1]",
+  "lblNoResult": "//*[@id='main']/div[1]/div[1]/section/div/div[1]/div/section/div[3]",
+  "elJob": "//*[@id='main']/div[1]/div[1]/section/div/div[1]/div/form/div[1]/label/input",
+  "lbljobResult": "//*[@id='main']/div[1]/div[1]/section/div/div[1]/div/section/header/h1",
+  "btnApply": "//*[@id='main']/div[1]/div[1]/section/div/div[1]/div/section/div[1]/article[1]/footer/div/a",
+
+  "jobApply": {
+    "txtHeader": "//*[@id='main']/article/div/header/h1",
+    "boxApply": "//*[@id='main']/article/div/aside/div/div",
+    "txtFirstName": "//*[@id='_content_epam_en_careers_job-listings_job_jcr_content_right-container_form_constructor_applicantFirstName']",
+    "txtLastName": "//*[@id='_content_epam_en_careers_job-listings_job_jcr_content_right-container_form_constructor_applicantLastName']",
+    "txtEmail":"//*[@id='_content_epam_en_careers_job-listings_job_jcr_content_right-container_form_constructor_applicantEmail']",
+    "btnSubmit": "//*[@id='_content_epam_en_careers_job-listings_job_jcr_content_right-container_form_constructor']/div[17]/div/div[1]/button",
+    "txtSumLetter": "//*[@id='_content_epam_en_careers_job-listings_job_jcr_content_right-container_form_constructor_applicantMessage']"
+  }
+}
