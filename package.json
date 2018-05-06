@@ -1,0 +1,26 @@
+{
+  "name": "job_apply_flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasmiknersesyan/job_apply_flow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasmiknersesyan/job_apply_flow/issues"
+  },
+  "homepage": "https://github.com/hasmiknersesyan/job_apply_flow#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "q": "^1.5.1"
+  },
+  "devDependencies": {
+    "q-promise": "^1.0.0"
+  }
+}
